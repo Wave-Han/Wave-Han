@@ -7,7 +7,7 @@ Java 后端工程师,4 年+ Spring 微服务经验。2026 年起系统学习 AI 
 - **[mini-agent-framework](https://github.com/Wave-Han/mini-agent-framework)** — Java Agent 运行时:工具调用循环、拦截器链、树形会话、多模型注册;18 个 JUnit 测试,TDD 全程
 - **[code-review-agent](https://github.com/Wave-Han/code-review-agent)** — 评估驱动改进:30 条评测集,Precision 90%→100% 且 Recall 零损失;噪声一致性研究(单次评估无统计意义的实证)
 - **[dev-team-agent](https://github.com/Wave-Han/dev-team-agent)** — 多 Agent 编排 + 三类故障注入复盘(死循环 / Prompt 注入 / 幻觉),13 项测试,分层防御
-- **[geo-visibility-mcp](https://github.com/Wave-Han/geo-visibility-mcp)** — Spring Boot 实现的 MCP server:度量品牌在 AI 答案引擎中的可见性(GEO),与 Python 版数据兼容
+- **[code-reviewer-agent](https://github.com/Wave-Han/code-reviewer-agent)** — 代码审查 CLI:读文件 / git diff → ReAct 循环 → 结构化报告(Bug / 安全 / 性能 / 风格),47 个测试
 
 ## 工程信条
 
